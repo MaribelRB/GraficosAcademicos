@@ -1,0 +1,10 @@
+:root {
+  --color-white: #FFFFFF;
+  --color-dark:  #06053D;
+  --color-accent:#2E6665;
+
+  --color-dark-soft: rgba(35, 26, 36, 0.88);
+  --color-border: rgba(83, 86, 84, 0.28);
+  --color-bg-soft: rgba(35, 26, 36, 0.06);
+  --color-accent-soft: rgba(83, 86, 84, 0.12);
+}
